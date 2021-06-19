@@ -1,2 +1,2 @@
 # node-bitcoin-wallet
-Abitcoin wallet generator with nodejs
+A bitcoin wallet generator with nodejs
