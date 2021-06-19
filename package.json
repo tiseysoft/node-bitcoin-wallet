@@ -1,0 +1,27 @@
+{
+  "name": "bitcoin-wallet",
+  "version": "1.0.0",
+  "description": "A bitcoin wllet generator with nodejs",
+  "main": "createwallet.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dl\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Det.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiseysoft/node-bitcoin-wallet.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Tisey Soft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiseysoft/node-bitcoin-wallet/issues"
+  },
+  "homepage": "https://github.com/tiseysoft/node-bitcoin-wallet#readme",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^5.2.0"
+  }
+}
